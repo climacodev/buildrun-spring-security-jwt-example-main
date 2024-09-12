@@ -22,7 +22,7 @@
 - Utilizamos o [Beekeeper Community](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v4.1.13)
 
 ## Como interagir com a API?
-- Utilizamos o [climacodev](https://github.com/usebruno/climacodev)
+- Utilizamos o [climacodev](https://github.com/climacodev)
 
 ## :rocket: Tecnologias utilizadas
 
