@@ -24,7 +24,7 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 - Utilizamos o [Beekeeper Community](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v4.1.13)
 
 ## Como interagir com a API?
-- Utilizamos o [Bruno](https://github.com/usebruno/bruno)
+- Utilizamos o [Bruno](https://github.com/usebruno/climacodev)
 
 ## :rocket: Tecnologias utilizadas
 
@@ -33,8 +33,6 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 * Spring Security 6
 * OAuth2 Resource Server
 
-:mag: Baixe o projeto e teste você mesmo na prática.
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
 Developed by Build & Run
