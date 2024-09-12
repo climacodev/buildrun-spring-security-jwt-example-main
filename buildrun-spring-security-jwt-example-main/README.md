@@ -15,9 +15,7 @@
 
 </p>
 
-[Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=nDst-CRKt_k)
 
 
 ## Como interagir com o banco de dados?
